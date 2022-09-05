@@ -3,8 +3,8 @@
 I'm Octave, a 31-year-old data analyst/scientist from France.
 
 ### ✨ About Me in 30 Secs
-- Worked for 10 years in the French Navy, 4 as a Data Analyst Officer.
-- Interested in pursuing my career in Data in a company
+- Worked for 10 years in the French Navy, 4 as a Data Analyst Officer
+- Interested in pursuing my career in Data in the civilian sector
 - Bachelor's degree in Data Analysis, currently studying to get a Master's Degree in AI Engineering/Data Science
 
 ### 📚 Portfolio
