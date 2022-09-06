@@ -8,7 +8,7 @@ I'm Octave, a 31-year-old data analyst/scientist from France.
 - Bachelor's degree in Data Analysis, currently studying to get a Master's Degree in AI Engineering/Data Science
 
 ### 📚 Portfolio
-- Click **[HERE](https://github.com/Faskill/Portfolio#readme)** for my portfolio
+- Click **[HERE](https://github.com/Faskill/Portfolio/blob/main/README.md)** for my portfolio
 
 ### 💡 Skills
 - Coding Languages: Python, SQL, R, Tableau, Ruby, Javascript, Excel/VBA 
