@@ -1,6 +1,6 @@
 ## Profile
 
-I'm Octave, a 31-year-old data analyst/scientist from France.
+I'm Octave, a 31-year-old data analyst and machine learning engineer from France.
 
 ### ✨ About Me in 30 Secs
 - Worked for 10 years in the French Navy, 4 as a Data Analyst Officer
