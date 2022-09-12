@@ -12,6 +12,8 @@ I'm Octave, a 31-year-old data analyst and machine learning engineer from France
 
 ### 💡 Skills
 - Coding Languages: Python, SQL, R, Tableau, Ruby, Javascript, Excel/VBA 
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Faskill)](https://github.com/anuraghazra/github-readme-stats)
 - Skills: Data Analysis, Data Science, Machine Learning, Deep Learning
 
 ### 🙌🏻 Connect with Me
