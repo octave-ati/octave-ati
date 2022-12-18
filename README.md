@@ -1,6 +1,7 @@
 ## Profile
 
 Nice to meet you! I'm Octave, a 31-year-old data analyst and machine learning engineer from France.
+
 Fluent in English, I'm interested in remote opportunities all around the globe.
 
 ### ✨ About Me in 30 Secs
