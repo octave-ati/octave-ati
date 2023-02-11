@@ -1,13 +1,13 @@
 ## Profile
 
-Nice to meet you! I'm Octave, a 31-year-old data analyst and machine learning engineer from France.
+Nice to meet you! I'm Octave, a 31-year-old data scientist and machine learning engineer from France.
 
 Fluent in English, I'm interested in remote opportunities all around the globe.
 
 ### ✨ About Me in 30 Secs
-- 10 years of experience working in Data for the French Armed Forces
+- 5 years of experience working as a Data Scientist for the French Armed Forces
 - Interested in continuing my career in the civilian sector
-- Master's Degree in AI Engineering, Bachelor's degree in Data Analysis and currently completing a Master of Science in Data Science
+- Master's Degree in AI Engineering, Bachelor's degree in Data Analysis.
 
 ### 📚 Portfolio
 - Click **[HERE](https://github.com/Faskill/Portfolio/blob/main/README.md)** for my portfolio
