@@ -1,4 +1,6 @@
-## Profile
+![Banner](banner.jpg)
+
+## Hello !
 
 Nice to meet you! I'm Octave, a 31-year-old data senior data science officer,
 working for the last 10 years for the French Armed Forces.
