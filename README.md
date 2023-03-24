@@ -6,7 +6,7 @@ Nice to meet you! I'm Octave, a 31-year-old data senior data science officer, wo
 10 years for the French Armed Forces.
 
 Fluent in English and in French, I'm interested in pursuing my career in an ambitious
-company.
+company working on state-of-the-art AI products.
 
 ### ✨ About Me in 30 Secs
 - 5 years of experience working as a Senior Data Science Officer for the French Armed Forces
