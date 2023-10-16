@@ -2,8 +2,8 @@
 
 ## My profile
 
-Nice to meet you! I'm Octave, a 33-year-old reforestation data and ML engineer, working for a company
-doing reforestation via drone name MORFO.
+Nice to meet you! I'm Octave, a 33-year-old reforestation data and ML engineer, working for MORFO, a company
+whose objective is growing forests thanks to AI assisted drones.
 
 Fluent in English and in French, I'm interested in pursuing my career in an ambitious
 company working on state-of-the-art AI products.
