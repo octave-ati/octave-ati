@@ -11,7 +11,7 @@ company working on state-of-the-art AI products.
 ### ✨ About Me in 30 Secs
 - 5 years of experience working as a Senior Data Science Officer for the French Armed Forces
 - Specialized in Computer vision (UAV video feeds, Satellite imagery) and NLP (intelligence reports)
-- 2 Master's Degree in AI Engineering and Data Science, 2 Bachelor's degree in Data Analysis and in Management.
+- 2 Master's Degrees in AI Engineering and Data Science, 2 Bachelor's Degrees in Data Analysis and Management.
 
 ### 📚 Portfolio
 - Click **[HERE](https://github.com/Faskill/Portfolio/blob/main/README.md)** for my portfolio
