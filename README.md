@@ -1,4 +1,4 @@
-![Octave Antoni Banner](octave_antoni.jpg)
+![Octave Antoni Banner](octave_antoni.png)
 
 ## My profile
 
