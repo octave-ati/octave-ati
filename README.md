@@ -1,4 +1,4 @@
-![Octave Antoni Banner](banner.jpg)
+![Octave Antoni Banner]("Octave Antoni.jpg")
 
 ## My profile
 
